@@ -1,4 +1,4 @@
-# Trading Performance Analysis Dashboard
+# Performance Data Analysis Dashboard
 
 I analyzed a small set of trades to answer a bigger question: what actually drives profitability—win rate, timing, or behavior?
 
